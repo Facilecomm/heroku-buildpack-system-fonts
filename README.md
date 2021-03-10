@@ -18,6 +18,7 @@ git push heroku master
 tar -czvf fonts.tar.gz ./fonts/
 ```
 
-| Fonts   |
-| ------- |
-| ✓ Arial |
+| Fonts        |
+| ------------ |
+| ✓ Arial      |
+| ✓ NimbusSanL |
